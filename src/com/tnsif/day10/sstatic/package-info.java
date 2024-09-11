@@ -1,0 +1,1 @@
+package com.tnsif.day10.sstatic;

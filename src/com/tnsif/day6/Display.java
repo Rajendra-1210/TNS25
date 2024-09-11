@@ -7,8 +7,5 @@ public class Display {
 	a.defaultdisplay();
 	System.out.println(a.publicdisplay());
 	System.out.println(a.protecteddisplay());
-	
-
 	}
-
 }
